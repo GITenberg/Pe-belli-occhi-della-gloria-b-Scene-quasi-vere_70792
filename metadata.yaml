@@ -1,0 +1,33 @@
+_repo: Pe-belli-occhi-della-gloria-b-Scene-quasi-vere_70792
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farina, Salvatore
+    birthdate: 1846
+    deathdate: 1918
+    gutenberg_agent_id: '7674'
+    url: http://www.gutenberg.org/2009/agents/7674
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Salvatore_Farina
+    - https://it.wikipedia.org/wiki/Salvatore_Farina
+description: ''
+gutenberg_issued: '2023-05-18'
+identifiers:
+  gutenberg: '70792'
+language: it
+pgterms:marc904: https://archive.org/details/pebelliocchidell00fariuoft/page/n7
+pgterms:marc905: 20190815012928farina
+pgterms:marc906: '1887'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: '  $aItaly :$bAlfredo Brigola, $c1887.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'Pe'' belli occhi della gloria : $b Scene quasi vere'
+url: http://www.gutenberg.org/ebooks/70792
