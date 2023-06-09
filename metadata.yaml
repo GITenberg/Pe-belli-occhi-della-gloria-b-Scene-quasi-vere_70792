@@ -1,5 +1,8 @@
 _repo: Pe-belli-occhi-della-gloria-b-Scene-quasi-vere_70792
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70792-h/images/cover.jpg
 creator:
   author:
     agent_name: Farina, Salvatore
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Salvatore_Farina
     - https://it.wikipedia.org/wiki/Salvatore_Farina
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70792#Pe-belli-occhi-della-gloria-b-Scene-quasi-vere
 gutenberg_issued: '2023-05-18'
 identifiers:
   gutenberg: '70792'
